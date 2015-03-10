@@ -10,7 +10,7 @@
 * Create Graph
 
 
-Still continue
+Still continue to develop add many datasources like fb, twitter and uploading a lot of files and edit it over here with graph
 
 * ...
 
