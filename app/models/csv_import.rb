@@ -1,6 +1,6 @@
 require 'roo'
 class CsvImport < ActiveRecord::Base
-	include WithoutTimestamps
+	#include WithoutTimestamps
 
   def self.import(file)
     spreadsheet = open_spreadsheet(file)
